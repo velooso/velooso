@@ -1,5 +1,4 @@
 <div align="center">
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -15,4 +14,3 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
-###
